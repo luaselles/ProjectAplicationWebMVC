@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {}
+    "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {
+    "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
         "projectName": "ProjectAplicationWebMVC",
-        "projectPath": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
-        "packagesPath": "C:\\Users\\lusel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\obj\\",
+        "projectPath": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
+        "packagesPath": "C:\\Users\\luana.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lusel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,28 @@
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
               "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"

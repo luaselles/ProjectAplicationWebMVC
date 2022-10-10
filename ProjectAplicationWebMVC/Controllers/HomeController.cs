@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using ProjectAplicationWebMVC.Models.ViewModels;
 
 namespace ProjectAplicationWebMVC.Controllers
 {
@@ -18,7 +19,7 @@ namespace ProjectAplicationWebMVC.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "Aplicação Web para vendas";
-
+            ViewData["email"] = "luana.vsselles@gmail.com";
             return View();
         }
 
