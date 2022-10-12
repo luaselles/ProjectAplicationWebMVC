@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {}
+    "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {
+    "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
         "projectName": "ProjectAplicationWebMVC",
-        "projectPath": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
-        "packagesPath": "C:\\Users\\luana.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luana.souza\\Source\\Repos\\luaselles\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\obj\\",
+        "projectPath": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC.csproj",
+        "packagesPath": "C:\\Users\\lusel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lusel\\source\\repos\\ProjectAplicationWebMVC\\ProjectAplicationWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luana.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lusel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "version": "[2.1.10, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
