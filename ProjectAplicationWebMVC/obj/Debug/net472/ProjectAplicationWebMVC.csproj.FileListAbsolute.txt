@@ -319,7 +319,6 @@ C:\Users\luana.souza\Source\Repos\luaselles\ProjectAplicationWebMVC\ProjectAplic
 C:\Users\luana.souza\Source\Repos\luaselles\ProjectAplicationWebMVC\ProjectAplicationWebMVC\bin\Debug\net472\System.Data.SqlClient.dll
 C:\Users\luana.souza\Source\Repos\luaselles\ProjectAplicationWebMVC\ProjectAplicationWebMVC\bin\Debug\net472\System.Interactive.Async.dll
 C:\Users\luana.souza\Source\Repos\luaselles\ProjectAplicationWebMVC\ProjectAplicationWebMVC\obj\Debug\net472\Razor\Views\Departments\Index.cshtml.g.cs
-C:\Users\lusel\Source\Repos\ProjectAplicationWebMVC\ProjectAplicationWebMVC\obj\Debug\net472\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\lusel\Source\Repos\ProjectAplicationWebMVC\ProjectAplicationWebMVC\bin\Debug\net472\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\lusel\Source\Repos\ProjectAplicationWebMVC\ProjectAplicationWebMVC\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
 C:\Users\lusel\Source\Repos\ProjectAplicationWebMVC\ProjectAplicationWebMVC\bin\Debug\net472\Microsoft.CodeAnalysis.Workspaces.dll
